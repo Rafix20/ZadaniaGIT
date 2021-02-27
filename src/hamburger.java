@@ -1,2 +1,2 @@
-public class hamburger {
+package PACKAGE_NAME;public class hamburger {
 }
